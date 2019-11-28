@@ -1,5 +1,5 @@
 node "puppetclient.example.com" { 
-   include java::install 
+   include java
    include tomcat
    
    } 
