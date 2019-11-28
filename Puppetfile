@@ -19,3 +19,7 @@ forge 'https://forge.puppet.com'
 mod 'tomcat',
    git:    'https://github.com/deepmtech23/tomcat.git',
    branch: 'production'
+
+mod 'java',
+   git:    'https://github.com/deepmtech23/java.git',
+   branch: 'production'
