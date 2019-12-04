@@ -23,3 +23,15 @@ mod 'tomcat',
 mod 'java',
    git:    'https://github.com/deepmtech23/java.git',
    branch: 'production'
+
+mod 'ntp',
+   git:    'https://github.com/puppetlabs/puppetlabs-ntp.git',
+   branch: 'production'
+
+mod 'stdlib',
+   git:    'https://github.com/puppetlabs/stdlib.git',
+   branch: 'production'
+
+
+
+          
