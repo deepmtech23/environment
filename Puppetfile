@@ -29,7 +29,7 @@ mod 'ntp',
    branch: 'production'
 
 mod 'stdlib',
-   git:    'https://github.com/puppetlabs/stdlib.git',
+   git:    'https://github.com/deepmtech23/stdlib.git',
    branch: 'production'
 
 
