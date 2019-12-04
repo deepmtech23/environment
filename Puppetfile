@@ -24,7 +24,7 @@ mod 'java',
    git:    'https://github.com/deepmtech23/java.git',
    branch: 'production'
 
-mod 'ntp',
+mod 'puppetlabs-ntp',
    git:    'https://github.com/puppetlabs/puppetlabs-ntp.git',
    branch: 'production'
 
